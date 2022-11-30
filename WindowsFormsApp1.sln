@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "desiging io", "WindowsFormsApp1\desiging io.csproj", "{1656A397-18BE-46A6-B56C-2E212A078DC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "form 2", "WindowsFormsApp2\form 2.csproj", "{77CC796B-3F3F-489F-94CF-3C0131BCDF7E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1656A397-18BE-46A6-B56C-2E212A078DC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1656A397-18BE-46A6-B56C-2E212A078DC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1656A397-18BE-46A6-B56C-2E212A078DC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1656A397-18BE-46A6-B56C-2E212A078DC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77CC796B-3F3F-489F-94CF-3C0131BCDF7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77CC796B-3F3F-489F-94CF-3C0131BCDF7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77CC796B-3F3F-489F-94CF-3C0131BCDF7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77CC796B-3F3F-489F-94CF-3C0131BCDF7E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9C58984-2AB9-462F-B01C-E03C71615BA7}
+	EndGlobalSection
+EndGlobal
