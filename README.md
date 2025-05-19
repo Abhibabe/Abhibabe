@@ -16,11 +16,12 @@ I'm a passionate Software Engineer with experience in building scalable enterpri
 ---
 
 ## 🚀 What I’m Working On
-- Enhancing **Protrak**, a powerful construction management PLM solution
-- Building efficient front-end UIs using **React.js + TailwindCSS**
-- Optimizing back-end workflows with **C#** and RESTful APIs
-- Exploring deeper into **AWS services** and **DevOps practices**
-
+- Enhancing **Protrak**, an enterprise-grade construction management PLM solution with end-to-end feature coverage
+- Developing and optimizing back-end logic using **C#**, **.NET**, and deploying services on **Azure**
+- Working with **Kubernetes** and **Docker** for container orchestration and microservice deployment
+- Building and refactoring front-end components using **JavaScript**, **React.js**, and **TailwindCSS** for a responsive and modular UI
+- Creating scalable RESTful APIs and integrating them across modules to ensure seamless data flow
+- Continuously improving DevOps workflows using **Azure DevOps** pipelines and GitHub Actions for CI/CD
 ---
 
 ## 📚 Currently Learning
