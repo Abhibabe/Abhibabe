@@ -42,7 +42,7 @@ I'm a passionate Software Engineer with experience in building scalable enterpri
 ## 📫 Reach Me
 - 📧 abhishek.maheshwari@email.com *(replace with your actual email)*
 - 📱 +91-7568006421
-- 🔗 [LinkedIn](https://www.linkedin.com/in/abhishekmaheshwari/) *(replace or update as needed)*
+- 🔗 [LinkedIn](https://www.linkedin.com/in/abhishek-maheshwari-64a31a214/) *(replace or update as needed)*
 
 ---
 
